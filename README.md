@@ -20,7 +20,7 @@ This project uses **machine learning** to predict water pollutant levels for mon
 - 🚦 Classifies water as **SAFE** or **UNSAFE** for drinking.
 
 - 📊 Visualizes predicted data using:
-  - Bar charts (with safe/unsafe indicators)
+  - Bar charts
 
 ---
 
